@@ -18,7 +18,7 @@
   
   /* Status colors */
   .status-unavailable {
-	background-color: red;
+	background-color: rgb(229, 47, 47);
   }
   .status-unrefined {
 	background-color: orange;
@@ -27,10 +27,10 @@
 	background-color: yellow;
   }
   .status-reviewed {
-	background-color: green;
+	background-color: rgb(34, 176, 34);
   }
   .status-manually-reviewed {
-	background-color: blue;
+	background-color: rgb(55, 87, 217);
   }
 
   
